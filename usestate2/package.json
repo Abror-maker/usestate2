@@ -1,14 +1,14 @@
 {
   "name": "usestate2",
   "private": true,
-  "homepage": "https://Abror-maker.github.io/usestate2/",
+  "homepage": "https://Abror-maker.github.io/usestate-counter/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "build": "vite build",
+        "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
